@@ -1,34 +1,29 @@
-# non-us-data-center-registry
-Dataset Information
+# Dataset Information
 
-Title
+## Title
 
 How Sovereign Is Sovereign Compute? A Review of 775 Non-U.S. Data Centers
 
-Authors
-
+### Authors
 "Richardson, A., Yi, H., Nie, M., Price,C., Wisdom,S., Weijers, R., Veld, S., & Baker, M.."
 
-Keywords
+### Keywords
 
 Digital infrastructure, Data centers, Supercomputers, Cloud computing, Artificial Intelligence, Chinese infrastructure, American infrastructure
 
-Description
+## Description
 
 "This dataset catalogs 775 data center projects across 123 countries (after searching 193 countries), with data collection ending in the third quarter of 2024. These data center projects include existing and planned initiatives to build data centers, supercomputers, and compute clouds. We deliberately exclude data on data centers in the U.S. in order to focus our analysis on U.S. influence abroad.
 The data in our dataset was collected from a mix of public sources: news articles, government announcements, and industry reports. The data search process began with individual queries for each of the 193 countries using the AI-augmented search tool Perplexity AI in Q2 and Q3 of 2024. As individual data centers were identified, researchers recorded 26 variables for each project along with the URLs of the sources of our information."
 
-Date
-
+### Date
 Created: 2024
 Last Updated: 2025
 
-Sources
-
+### Sources
 Various news articles and official announcements (URLs preserved in the dataset)
 
-Language
-
+### Language
 English
 
 Worksheet Descriptions

@@ -51,7 +51,9 @@ Data was collected from publicly available news sources, government announcement
 - Project and quote IDs are cross-referenced between files
 
 ### Known Data Limitations
+- Limited access to data on Chinese compute projects
+- Collected from public data
+- Collected using Perplexity AI, which likely biases recent search results
 - Some fields contain missing values
-- Historical data may be incomplete for older projects
 - Project timelines may be subject to updates
   

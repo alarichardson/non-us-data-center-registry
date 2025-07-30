@@ -10,18 +10,25 @@ The data in our dataset was collected from a mix of public sources: news article
 
 Core metadata include the country, year of announcement, reported project type (e.g., data center, cloud, supercomputer), and ownership model (public, private, public-private). 
 
-We also record the intended use case (e.g., government, healthcare, R&D), reported setbacks, and whether the project reportedly involves AI/ML, edge computing, or cybersecurity applications.
+We also record the intended use case (e.g., government, healthcare, R&D), reported setbacks, and whether the project reportedly involves AI/ML, edge computing, or cybersecurity applications.
 
-To enable analysis of jurisdictional levers, we documented each instance of actor involvement by both sector and nationality. These included:
+To enable analysis of jurisdictional levers, we documented each instance of actor involvement by both sector and nationality. These included:
+
 • U.S. government involvement
-• U.S. company involvement
-• Chinese government involvement
-• Chinese company involvement
-• Domestic government and company involvement
-• Other international actors (government or corporate)
-When available, quantitative variables such as investments ($) and number of GPUs in the projects were recorded to contextualize the compute capacity of the data center projects. Since exact metrics like number of GPUs or FLOPs were not public for most projects, we use reported investment value in the data center projects as a proxy for compute capacity.
 
-We also recorded quotes from the articles to compile a qualitative portion of our dataset, which includes descriptions of project motivations, U.S. and Chinese involvement, and the specific types of setbacks encountered by projects. Setbacks were briefly labeled by the type of problem encountered and checked for frequency by country, but otherwise this qualitative data is not analyzed in this paper.
+• U.S. company involvement
+
+• Chinese government involvement
+
+• Chinese company involvement
+
+• Domestic government and company involvement
+
+• Other international actors (government or corporate)
+
+When available, quantitative variables such as investments ($) and number of GPUs in the projects were recorded to contextualize the compute capacity of the data center projects. Since exact metrics like number of GPUs or FLOPs were not public for most projects, we use reported investment value in the data center projects as a proxy for compute capacity.
+
+We also recorded quotes from the articles to compile a qualitative portion of our dataset, which includes descriptions of project motivations, U.S. and Chinese involvement, and the specific types of setbacks encountered by projects. Setbacks were briefly labeled by the type of problem encountered and checked for frequency by country, but otherwise this qualitative data is not analyzed in this paper.
 
 
 ### Link to Paper

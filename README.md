@@ -8,7 +8,7 @@ The data in our dataset was collected from a mix of public sources: news article
 
 ## Dataset Variables 
 
-Core metadata include the country, year of announcement, reported project type (e.g., data center, cloud, supercomputer), and ownership model (public, private, public-private). 
+Core metadata include the country, year of announcement, reported project type (e.g., data center, cloud, supercomputer), and ownership model (public, private, public-private). 
 
 We also record the intended use case (e.g., government, healthcare, R&D), reported setbacks, and whether the project reportedly involves AI/ML, edge computing, or cybersecurity applications.
 

@@ -12,7 +12,7 @@ The data in our dataset was collected from a mix of public sources: news article
 How Sovereign Is Sovereign Compute? A Review of 775 Non-U.S. Data Centers
 
 ### Authors
-"Richardson, A., Yi, H., Nie, M.,  Wisdom, S., Price, C., Weijers, R., Veld, S.,  & Baker, M.."
+Richardson, A., Yi, H., Nie, M.,  Wisdom, S., Price, C., Weijers, R., Veld, S.,  & Baker, M..
 
 ### Keywords
 

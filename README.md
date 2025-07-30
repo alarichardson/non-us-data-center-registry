@@ -12,14 +12,14 @@ The data in our dataset was collected from a mix of public sources: news article
 How Sovereign Is Sovereign Compute? A Review of 775 Non-U.S. Data Centers
 
 ### Authors
-"Richardson, A., Yi, H., Nie, M., Price,C., Wisdom,S., Weijers, R., Veld, S., & Baker, M.."
+"Richardson, A., Yi, H., Nie, M.,  Wisdom, S., Price, C., Weijers, R., Veld, S.,  & Baker, M.."
 
 ### Keywords
 
 Digital infrastructure, Data centers, Supercomputers, Cloud computing, Artificial Intelligence, Chinese infrastructure, American infrastructure
 
 ### Recommended Citation
-Richardson, A., Yi, H., Nie, M., Price, C., Wisdom, S., Weijers, R., Veld, S., & Baker, M. (2025). How Sovereign Is Sovereign Compute? A Review of 775 Non-U.S. Data Centers.
+Richardson, A., Yi, H., Nie, M., Wisdom, S., Price, C., Weijers, R., Veld, S., Price, C., & Baker, M. (2025). How Sovereign Is Sovereign Compute? A Review of 775 Non-U.S. Data Centers.
 
 ### Contact Information
 arislrichardson@gmail.com
